@@ -1,0 +1,18 @@
+
+<meta property="og:site_name" content="<?php echo $lang_array['site-name']; ?>" />
+<meta property="og:title" content="<?php echo $lang_array['quote-title']; ?>" />
+<meta property="og:description" content="<?php echo $lang_array['quote-description']; ?>" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="https://pack2net.com/assets/img/social/website-img.webp" />
+<meta property="og:url" content="<?php echo $lang_array['quote-url']; ?>" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="<?php echo $lang_array['quote-title']; ?>" />
+<meta name="twitter:description" content="<?php echo $lang_array['quote-description']; ?>" />
+<meta name="twitter:site" content="@Pack2Net" />
+<meta name="twitter:image" content="https://pack2net.com/assets/img/social/website-img.webp" />
+<meta name="twitter:creator" content="@Pack2Net" />
+<meta name="robots" content="index, follow" />
+
+<link rel="canonical" href="<?php echo $lang_array['quote-url']; ?>" />
+
+<!-- #Social Media End -->
